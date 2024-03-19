@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  Prolet.cpp
+  Generating Code...
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Prolet-skel-Windows\Prolet\Prolet\functions.cpp(36): warning C4715: 'quarter_to_ordinal': not all control paths return a value
+  Prolet.vcxproj -> C:\Users\nazan\OneDrive\Desktop\Lab CS\Prolet-skel-Windows\Prolet\x64\Debug\Prolet.exe
